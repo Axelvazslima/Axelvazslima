@@ -34,3 +34,5 @@ Here are some of the exciting projects I've been working on:
 3. [Chess Game](https://github.com/Axelvazslima/chess-java): A chess game built using Java.
 
 And a lot more, feel free to check out my GitHub profile for more of my projects and contributions.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelvazslima&theme=tokyonight" />
