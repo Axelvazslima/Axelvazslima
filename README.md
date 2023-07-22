@@ -1,6 +1,6 @@
 # Hi there, I'm Axel 👋
 
-I'm a passionate software engineer who loves to learn new technologies and create amazing projects.
+I'm a brazilian computer science student who loves to learn new technologies and create amazing projects.
 
 ## 🔭 I’m currently working on...
 
@@ -19,11 +19,6 @@ Back-End Development and exploring new frameworks and tools to build robust and 
 
 - ✉️: axelvaz0@gmail.com
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/axelvaz/)
-
-## 😄 Fun facts about me...
-
-- 🇧🇷 I'm from Brazil and I speak Portuguese and English.
-- 🎓 I'm currently a Computer Science Student at UFCG, and I'm always eager to expand my knowledge.
 
 ## 🚀 Projects
 
