@@ -29,6 +29,7 @@ Here are some of the exciting projects I've been working on:
 3. [Chess Game](https://github.com/Axelvazslima/chess-java): A chess game built using Java.
 
 And a lot more, feel free to check out my GitHub profile for more of my projects and contributions.
+[You can also check my studies here](https://axelvaz.notion.site/axelvaz/Coding-Studies-9e9d3a7c6e5243f68a230eddf5f5048f): Part of my theoretical studies.
 
 #
 <div style = "flex" align="center">
