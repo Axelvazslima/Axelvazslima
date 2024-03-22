@@ -9,6 +9,8 @@ Mastering my programming skills. I'm continuously practicing and using this GitH
 ## 🌱 I’m currently learning...
 
 Back-End Development and exploring new frameworks and tools to build robust and scalable applications.
+The functional programming paradigm using Clojure.
+Data Structure and algorithms using (mainly) Java.
 
 ## 💬 Ask me about...
 
@@ -27,6 +29,8 @@ Here are some of the exciting projects I've been working on:
 1. [Java](https://github.com/Axelvazslima/java-practices): My studies in Java.
 2. [Python](https://github.com/Axelvazslima/practices-python): My studies in Python.
 3. [Chess Game](https://github.com/Axelvazslima/chess-java): A chess game built using Java.
+4. [Data-Structures & Algorithms](https://github.com/Axelvazslima/data-structures): Data-structures and algorithms repository.
+5. [Clojure](https://github.com/Axelvazslima/clojure-codes): Functional Programming Paradigm using Clojure
 
 And a lot more, feel free to check out my GitHub profile for more of my projects and contributions.
 
@@ -45,7 +49,6 @@ And a lot more, feel free to check out my GitHub profile for more of my projects
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
 </div>
 
