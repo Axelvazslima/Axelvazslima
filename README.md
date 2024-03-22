@@ -6,6 +6,8 @@ I'm a brazilian computer science student who loves to learn new technologies and
 
 Mastering my programming skills. I'm continuously practicing and using this GitHub account to keep track of my progress and share my projects with others.
 
+[You can also check part of my theoretical studies here](https://axelvaz.notion.site/axelvaz/Coding-Studies-9e9d3a7c6e5243f68a230eddf5f5048f)
+
 ## 🌱 I’m currently learning...
 
 Back-End Development and exploring new frameworks and tools to build robust and scalable applications.
@@ -33,8 +35,6 @@ Here are some of the exciting projects I've been working on:
 5. [Clojure](https://github.com/Axelvazslima/clojure-codes): Functional Programming Paradigm using Clojure
 
 And a lot more, feel free to check out my GitHub profile for more of my projects and contributions.
-
-[You can also check part of my theoretical studies here](https://axelvaz.notion.site/axelvaz/Coding-Studies-9e9d3a7c6e5243f68a230eddf5f5048f)
 
 #
 <div style = "flex" align="center">
