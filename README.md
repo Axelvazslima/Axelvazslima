@@ -28,11 +28,12 @@ Data Structure and algorithms using (mainly) Java.
 
 Here are some of the exciting projects I've been working on:
 
-1. [Java](https://github.com/Axelvazslima/java-practices): My studies in Java.
-2. [Python](https://github.com/Axelvazslima/practices-python): My studies in Python.
+
+1. [Data-Structures & Algorithms](https://github.com/Axelvazslima/data-structures): Data-structures and algorithms repository.
+2. [Clojure](https://github.com/Axelvazslima/clojure-codes): Functional Programming Paradigm using Clojure.
 3. [Chess Game](https://github.com/Axelvazslima/chess-java): A chess game built using Java.
-4. [Data-Structures & Algorithms](https://github.com/Axelvazslima/data-structures): Data-structures and algorithms repository.
-5. [Clojure](https://github.com/Axelvazslima/clojure-codes): Functional Programming Paradigm using Clojure
+4. [Java](https://github.com/Axelvazslima/java-practices): My studies in Java.
+5. [Python](https://github.com/Axelvazslima/practices-python): My studies in Python.
 
 And a lot more, feel free to check out my GitHub profile for more of my projects and contributions.
 
