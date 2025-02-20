@@ -7,31 +7,22 @@ I'm a **Computer Science student at UFCG** with a passion for building scalable 
 ### **Main Stack**  
 
 - **Java** & **Spring Boot** – Backend development for robust and scalable applications
-
 - **MySQL** – Relational database design and management 
-
 - **Python** – Scripting, automation, and data processing  
 
 ### **Familiar With**
 
 - **Golang** – Exploring concurrency and performance  
-
 - **TypeScript** – Writing safer and more scalable JavaScript  
-
 - **React TS** & **Angular TS** – Building modern front-end applications  
-
 - **TailwindCSS** – Rapid UI development with utility-first styling  
-
 - **Clojure** - LISP based functional programming
 
 ### **Currently Learning**  
 
 - **Docker** & **Kubernetes** – Containerization, microservices and orchestrating them (📌 [Learn it with me](#https://github.com/Axelvazslima/docker-studies))  
-
 - **Bash** – Orchestrating containerized applications  
-
 - **Git** – Version control best practices  
-
 - **Golang** – Strengthening my backend skills  
 
 <p align="center">
@@ -43,9 +34,7 @@ I'm a **Computer Science student at UFCG** with a passion for building scalable 
 ## 📫 Connect with Me  
 
 - 📩 **[Email](mailto:axelvaz45@gmail.com)** - axelvaz45
-
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/axelvaz/)** - axelvaz
-
 - 🌍 **[Portfolio](#)** - _Under construction 🚧_ 
 
 <p align="center">
@@ -72,5 +61,3 @@ I'm a **Computer Science student at UFCG** with a passion for building scalable 
 <p align="center">
   🇧🇷 🇬🇧 🇺🇸
 </p>
-
-
