@@ -1,55 +1,76 @@
-# Hi there, I'm Axel 👋
+# ![text](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif) Hey there! I'm Axel  
 
-I'm a brazilian computer science student who loves to learn new technologies and create amazing projects.
+I'm a **Computer Science student at UFCG** with a passion for building scalable and efficient applications. I love exploring new technologies and continuously improving my skills.  
 
-## 🔭 I’m currently working on...
+## 🚀 Technologies & Tools  
 
-Mastering my programming skills. I'm continuously practicing and using this GitHub account to keep track of my progress and share my projects with others.
+### **Main Stack**  
 
-[You can also check part of my theoretical studies here](https://axelvaz.notion.site/axelvaz/Coding-Studies-9e9d3a7c6e5243f68a230eddf5f5048f)
+- **Java** & **Spring Boot** – Backend development for robust and scalable applications
 
-## 🌱 I’m currently learning...
+- **MySQL** – Relational database design and management 
 
-Back-End Development and exploring new frameworks and tools to build robust and scalable applications.
-The functional programming paradigm using Clojure.
-Data Structure and algorithms using (mainly) Java.
+- **Python** – Scripting, automation, and data processing  
 
-## 💬 Ask me about...
+### **Familiar With**
 
-- How to use Git and GitHub effectively for version control and collaboration.
-- Writing clean, maintainable, and scalable code that follows industry best practices.
+- **Golang** – Exploring concurrency and performance  
 
-## 📫 How to reach me...
+- **TypeScript** – Writing safer and more scalable JavaScript  
 
-- ✉️: axelvaz0@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/axelvaz/)
+- **React TS** & **Angular TS** – Building modern front-end applications  
 
-## 🚀 Projects
+- **TailwindCSS** – Rapid UI development with utility-first styling  
 
-Here are some of the exciting projects I've been working on:
+- **Clojure** - LISP based functional programming
 
+### **Currently Learning**  
 
-1. [Data-Structures & Algorithms](https://github.com/Axelvazslima/data-structures): Data-structures and algorithms repository.
-2. [Clojure](https://github.com/Axelvazslima/clojure-codes): Functional Programming Paradigm using Clojure.
-3. [Chess Game](https://github.com/Axelvazslima/chess-java): A chess game built using Java.
-4. [Java](https://github.com/Axelvazslima/java-practices): My studies in Java.
-5. [Python](https://github.com/Axelvazslima/practices-python): My studies in Python.
+- **Docker** & **Kubernetes** – Containerization, microservices and orchestrating them (📌 [Learn it with me](#https://github.com/Axelvazslima/docker-studies))  
 
-And a lot more, feel free to check out my GitHub profile for more of my projects and contributions.
+- **Bash** – Orchestrating containerized applications  
 
-#
-<div style = "flex" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelvazslima&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Axelvazslima&theme=tokyonight" />
-</div>
+- **Git** – Version control best practices  
 
-#
-<div style = "flex" align="center">
-  <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
-</div>
+- **Golang** – Strengthening my backend skills  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,bash,java,python,go,mysql&perline=4" />
+  </a>
+</p> 
+
+## 📫 Connect with Me  
+
+- 📩 **[Email](mailto:axelvaz45@gmail.com)** - axelvaz45
+
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/axelvaz/)** - axelvaz
+
+- 🌍 **[Portfolio](#)** - _Under construction 🚧_ 
+
+<p align="center">
+  <a href="mailto:axelvaz45@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/axelvaz/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a/>
+</p>
+
+## 📜 Certifications  
+
+- **Scrum Fundamentals** – Agile methodologies, team management & sprints (SCRUMstudy)  
+- **Clojure Basics** – Functional programming (UFCG)  
+
+📃 [View Certificates](https://drive.google.com/file/d/1tDK2vVtG8f6X1PW-W0HMHG2fiXwQJjPw/view?usp=drive_link)
+
+## 🌍 Languages  
+
+- **Portuguese** – Native  
+- **English** – Advanced (Reading, Writing, and Speaking)  
+
+<p align="center">
+  🇧🇷 🇬🇧 🇺🇸
+</p>
+
 
