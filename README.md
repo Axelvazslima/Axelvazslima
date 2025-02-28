@@ -35,7 +35,7 @@ I'm a **Computer Science student at UFCG** with a passion for building scalable 
 
 - 📩 **[Email](mailto:axelvaz45@gmail.com)** - axelvaz45
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/axelvaz/)** - axelvaz
-- 🌍 **[Portfolio](#)** - _Under construction 🚧_ 
+- 🌍 **[Portfolio](axelvaz.vercel.app)** - axelvaz.vercel.app
 
 <p align="center">
   <a href="mailto:axelvaz45@gmail.com">
@@ -49,7 +49,8 @@ I'm a **Computer Science student at UFCG** with a passion for building scalable 
 ## 📜 Certifications  
 
 - **Scrum Fundamentals** – Agile methodologies, team management & sprints (SCRUMstudy)  
-- **Clojure Basics** – Functional programming (UFCG)  
+- **Clojure Basics** – Functional programming (UFCG)
+- **Python and SQL** - Python and SQL skills certified (HackerRank)
 
 📃 [View Certificates](https://drive.google.com/file/d/1tDK2vVtG8f6X1PW-W0HMHG2fiXwQJjPw/view?usp=drive_link)
 
