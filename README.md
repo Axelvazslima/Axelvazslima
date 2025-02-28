@@ -35,7 +35,7 @@ I'm a **Computer Science student at UFCG** with a passion for building scalable 
 
 - 📩 **[Email](mailto:axelvaz45@gmail.com)** - axelvaz45
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/axelvaz/)** - axelvaz
-- 🌍 **[Portfolio](axelvaz.vercel.app)** - axelvaz.vercel.app
+- 🌍 **[Portfolio](https://axelvaz.vercel.app)** - axelvaz.vercel.app
 
 <p align="center">
   <a href="mailto:axelvaz45@gmail.com">
