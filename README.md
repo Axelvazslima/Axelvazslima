@@ -20,7 +20,8 @@ I'm a **Computer Science student at UFCG** with a passion for building scalable 
 
 ### **Currently Learning**  
 
-- **Docker** & **Kubernetes** – Containerization, microservices and orchestrating them (📌 [Learn it with me](#https://github.com/Axelvazslima/docker-studies))  
+- **Docker** & **Kubernetes** – Containerization, microservices and orchestrating them (📌 [Learn it with me](#https://github.com/Axelvazslima/docker-studies))
+- **AWS** & **Cloud Computing** - Exploring cloud architecture, deploying scalable applications, and leveraging AWS services for storage, computing, and security (📌 [Learn it with me](#https://github.com/Axelvazslima/learn-cloud))
 - **Bash** – Orchestrating containerized applications  
 - **Git** – Version control best practices  
 - **Golang** – Strengthening my backend skills  
