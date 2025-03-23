@@ -1,65 +1,68 @@
-# ![text](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif) Hey there! I'm Axel  
+# ![Wave](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif) Hello World! I'm Axel 
 
-I'm a **Computer Science student at UFCG** with a passion for building scalable and efficient applications. I love exploring new technologies and continuously improving my skills.  
+**Computer Science Student** @ [UFCG](https://www.ufcg.edu.br/) | **Developer**
 
-## 🚀 Technologies & Tools  
+---
 
-### **Main Stack**  
+## 💻 Tech Stack & Toolbox  
 
-- **Java** & **Spring Boot** – Backend development for robust and scalable applications
-- **MySQL** – Relational database design and management 
-- **Python** – Scripting, automation, and data processing  
-
-### **Familiar With**
-
-- **Golang** – Exploring concurrency and performance  
-- **TypeScript** – Writing safer and more scalable JavaScript  
-- **React TS** & **Angular TS** – Building modern front-end applications  
-- **TailwindCSS** – Rapid UI development with utility-first styling  
-- **Clojure** - LISP based functional programming
-
-### **Currently Learning**  
-
-- **Docker** & **Kubernetes** – Containerization, microservices and orchestrating them (📌 [Learn it with me](#https://github.com/Axelvazslima/docker-studies))
-- **AWS** & **Cloud Computing** - Exploring cloud architecture, deploying scalable applications, and leveraging AWS services for storage, computing, and security (📌 [Learn it with me](#https://github.com/Axelvazslima/learn-cloud))
-- **Bash** – Orchestrating containerized applications  
-- **Git** – Version control best practices  
-- **Golang** – Strengthening my backend skills  
-
+### **Core Expertise**  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,bash,java,python,go,mysql&perline=4" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,git,spring,ts" />
   </a>
-</p> 
+</p>
 
-## 📫 Connect with Me  
+- **Backend**: Java (Spring), Python  
+- **Data**: MySQL, Pandas, NumPy  
+- **Tools**: Git, Maven, JUnit  
+- **Frontend**: React (TypeScript), Angular (TypeScript), TailwindCSS  
 
-- 📩 **[Email](mailto:axelvaz45@gmail.com)** - axelvaz45
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/axelvaz/)** - axelvaz
-- 🌍 **[Portfolio](https://axelvaz.vercel.app)** - axelvaz.vercel.app
+---
+
+### **Exploring & Expanding**  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,aws,bash" />
+  </a>
+</p>
+
+- **Languages**: Go (Concurrency)
+- **Cloud & Containerization**: Docker, Kubernetes and AWS
+- **Machine Learning & AI**: Theoretical foundations and Scikit-learn (In Progress 🤖)  
+
+👉 **Learning Journey**:  
+- [Docker & Kubernetes Studies](https://github.com/Axelvazslima/docker-studies)  
+- [Cloud Computing with AWS](https://github.com/Axelvazslima/learn-cloud)  
+
+---
+
+## 🏆 Certifications  
+- **Scrum Fundamentals Certified** (SCRUMstudy)  
+- **Clojure Programming** (UFCG)  
+- **Python & SQL** (HackerRank Verified)  
+- **AWS Cloud Practitioner** (In Progress ☁️)  
+
+📜 [View All Certificates](https://drive.google.com/drive/folders/19icKILH_RZZF_es6MkDvNqwA7KDxIs6j?hl=pt-br)
+
+---
+
+## 🌐 Let's Connect!  
 
 <p align="center">
   <a href="mailto:axelvaz45@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/axelvaz/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   <a/>
+  <a href="https://axelvaz.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </p>
 
-## 📜 Certifications  
-
-- **Scrum Fundamentals** – Agile methodologies, team management & sprints (SCRUMstudy)  
-- **Clojure Basics** – Functional programming (UFCG)
-- **Python and SQL** - Python and SQL skills certified (HackerRank)
-
-📃 [View Certificates](https://drive.google.com/file/d/1tDK2vVtG8f6X1PW-W0HMHG2fiXwQJjPw/view?usp=drive_link)
+---
 
 ## 🌍 Languages  
-
-- **Portuguese** – Native  
-- **English** – Advanced (Reading, Writing, and Speaking)  
-
-<p align="center">
-  🇧🇷 🇬🇧 🇺🇸
-</p>
+- **🇧🇷 Portuguese**: Native  
+- **🇬🇧 English**: Advanced
