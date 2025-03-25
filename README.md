@@ -29,7 +29,7 @@
 
 - **Languages**: Go (Concurrency)
 - **Cloud & Containerization**: Docker, Kubernetes and AWS
-- **Machine Learning & AI**: Theoretical foundations and Scikit-learn (In Progress 🤖)  
+- **Data Science, Machine Learning & AI**: Theoretical foundations, Pandas, Numpy and Scikit-learn (In Progress 🤖)  
 
 👉 **Learning Journey**:  
 - [Docker & Kubernetes Studies](https://github.com/Axelvazslima/docker-studies)  
