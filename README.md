@@ -40,8 +40,7 @@
 ## 🏆 Certifications  
 - **Scrum Fundamentals Certified** (SCRUMstudy)  
 - **Clojure Programming** (UFCG)  
-- **Python & SQL** (HackerRank Verified)  
-- **AWS Cloud Practitioner** (In Progress ☁️)  
+- **Python & SQL** (HackerRank Verified)
 
 📜 [View All Certificates](https://drive.google.com/drive/folders/19icKILH_RZZF_es6MkDvNqwA7KDxIs6j?hl=pt-br)
 
